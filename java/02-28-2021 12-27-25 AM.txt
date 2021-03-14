@@ -1,0 +1,76 @@
+02/28/2021 12:27:25 AM New Game Started!
+02/28/2021 12:27:25 AM Player wins with 9 of Hearts
+02/28/2021 12:27:25 AM Computer lost with 5 of Hearts
+02/28/2021 12:27:25 AM 
+02/28/2021 12:27:25 AM Computer wins with 9 of Clubs
+02/28/2021 12:27:25 AM Player lost with 7 of Clubs
+02/28/2021 12:27:25 AM 
+02/28/2021 12:27:28 AM WAR!
+02/28/2021 12:27:28 AM Computer has 6 of Spades
+02/28/2021 12:27:28 AM Player has 6 of Clubs
+
+02/28/2021 12:27:30 AM Player wins war with 10 of Clubs
+02/28/2021 12:27:30 AM Computer lost war with 3 of Hearts
+
+02/28/2021 12:27:30 AM Player kept the Jack of Diamonds
+02/28/2021 12:27:30 AM Player kept the 2 of Clubs
+02/28/2021 12:27:30 AM Player kept the 8 of Spades
+02/28/2021 12:27:30 AM Computer lost the 3 of Spades
+02/28/2021 12:27:30 AM Computer lost the 6 of Diamonds
+02/28/2021 12:27:30 AM Computer lost the 8 of Diamonds
+02/28/2021 12:27:30 AM 
+02/28/2021 12:27:33 AM Player wins with 5 of Diamonds
+02/28/2021 12:27:33 AM Computer lost with 3 of Clubs
+02/28/2021 12:27:33 AM 
+02/28/2021 12:27:34 AM Computer wins with 9 of Diamonds
+02/28/2021 12:27:34 AM Player lost with 2 of Hearts
+02/28/2021 12:27:34 AM 
+02/28/2021 12:27:35 AM WAR!
+02/28/2021 12:27:35 AM Computer has King of Spades
+02/28/2021 12:27:35 AM Player has King of Diamonds
+
+02/28/2021 12:27:36 AM Player wins war with Ace of Clubs
+02/28/2021 12:27:36 AM Computer lost war with 10 of Hearts
+
+02/28/2021 12:27:36 AM Player kept the 4 of Hearts
+02/28/2021 12:27:36 AM Player kept the Jack of Clubs
+02/28/2021 12:27:36 AM Player kept the 5 of Clubs
+02/28/2021 12:27:36 AM Computer lost the King of Hearts
+02/28/2021 12:27:36 AM Computer lost the Ace of Hearts
+02/28/2021 12:27:36 AM Computer lost the Queen of Diamonds
+02/28/2021 12:27:36 AM 
+02/28/2021 12:27:38 AM WAR!
+02/28/2021 12:27:38 AM Computer has Jack of Spades
+02/28/2021 12:27:38 AM Player has Jack of Hearts
+
+02/28/2021 12:27:39 AM Player wins war with King of Clubs
+02/28/2021 12:27:39 AM Computer lost war with 8 of Clubs
+
+02/28/2021 12:27:39 AM Player kept the 7 of Diamonds
+02/28/2021 12:27:39 AM Player kept the Ace of Diamonds
+02/28/2021 12:27:39 AM Player kept the Queen of Spades
+02/28/2021 12:27:39 AM Computer lost the 10 of Diamonds
+02/28/2021 12:27:39 AM Computer lost the 5 of Spades
+02/28/2021 12:27:39 AM Computer lost the 6 of Hearts
+02/28/2021 12:27:39 AM 
+02/28/2021 12:27:42 AM Computer wins with Ace of Spades
+02/28/2021 12:27:42 AM Player lost with 7 of Spades
+02/28/2021 12:27:42 AM 
+02/28/2021 12:27:43 AM Computer wins with Queen of Clubs
+02/28/2021 12:27:43 AM Player lost with 2 of Diamonds
+02/28/2021 12:27:43 AM 
+02/28/2021 12:27:44 AM Player wins with Queen of Hearts
+02/28/2021 12:27:44 AM Computer lost with 2 of Spades
+02/28/2021 12:27:44 AM 
+02/28/2021 12:27:45 AM Computer wins with 4 of Diamonds
+02/28/2021 12:27:45 AM Player lost with 3 of Diamonds
+02/28/2021 12:27:45 AM 
+02/28/2021 12:27:45 AM Player wins with 9 of Spades
+02/28/2021 12:27:45 AM Computer lost with 4 of Clubs
+02/28/2021 12:27:45 AM 
+02/28/2021 12:27:46 AM Computer wins with 8 of Hearts
+02/28/2021 12:27:46 AM Player lost with 4 of Spades
+02/28/2021 12:27:46 AM 
+02/28/2021 12:27:47 AM Player wins with 10 of Spades
+02/28/2021 12:27:47 AM Computer lost with 7 of Hearts
+02/28/2021 12:27:47 AM 

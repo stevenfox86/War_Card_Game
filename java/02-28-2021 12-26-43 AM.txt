@@ -1,0 +1,8 @@
+02/28/2021 12:26:43 AM New Game Started!
+02/28/2021 12:26:43 AM WAR!
+02/28/2021 12:26:43 AM Computer has 9 of Hearts
+02/28/2021 12:26:43 AM Player has 9 of Clubs
+
+02/28/2021 12:26:44 AM Player wins war with Ace of Clubs
+02/28/2021 12:26:44 AM Computer lost war with King of Hearts
+02/28/2021 12:26:44 AM 

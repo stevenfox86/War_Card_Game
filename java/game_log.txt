@@ -1,0 +1,17 @@
+02/22/2021 08:19:49 PM New Game Started!
+02/22/2021 08:19:49 PM Computer wins with 7 of Diamonds
+02/22/2021 08:19:49 PM Player lost with 6 of Clubs
+02/22/2021 08:19:50 PM Player wins with 9 of Hearts
+02/22/2021 08:19:50 PM Computer lost with 4 of Clubs
+02/22/2021 08:19:51 PM Computer wins with Jack of Clubs
+02/22/2021 08:19:51 PM Player lost with 8 of Hearts
+02/22/2021 08:19:51 PM Player wins with 8 of Spades
+02/22/2021 08:19:51 PM Computer lost with 5 of Hearts
+02/22/2021 08:19:51 PM Computer wins with Ace of Hearts
+02/22/2021 08:19:51 PM Player lost with 4 of Spades
+02/22/2021 08:19:51 PM Computer wins with Jack of Hearts
+02/22/2021 08:19:51 PM Player lost with 10 of Diamonds
+02/22/2021 08:19:51 PM Computer wins with Ace of Spades
+02/22/2021 08:19:51 PM Player lost with 7 of Hearts
+02/22/2021 08:19:51 PM Computer wins with Queen of Hearts
+02/22/2021 08:19:51 PM Player lost with 5 of Clubs
